@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
     <libraryInfo home="C:\Java\jdk-11.0.12" version="11.0.12"/>
+<<<<<<< HEAD
+    <libraryInfo home="C:\java\jdk11.0.13_8" version="11.0.13"/>
+=======
     <libraryInfo home="C:\java\amazon-corretto-11.0.13.8.1-windows-x64-jdk\jdk11.0.13_8" version="11.0.13"/>
+>>>>>>> 065d0630082231fdece6f82c821f77d3d823cdf9
 </libraryInfos>
