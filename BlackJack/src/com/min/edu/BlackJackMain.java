@@ -1,14 +1,14 @@
 package com.min.edu;
 
+import com.miin.edu.rule.GameRule;
 import com.min.edu.player.Player;
 
 public class BlackJackMain {
 
 	public static void main(String[] args) {
-		Player player = new Player();
-//		player.play();
-		System.out.println(player.toString());
-//		player.ddd();
+		GameRule game = new GameRule();
+		game.makeTotal();
+//		System.out.println(1%13);
 	}
 
 }
