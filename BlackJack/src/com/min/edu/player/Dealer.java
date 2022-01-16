@@ -70,12 +70,12 @@ public class Dealer implements IBlackJack {
 			System.out.println(i+"번째: " + sum);
 		}//for
 		
-//		if(sum < 17) {
-//			for (int i = 2; i < cal.length; i++) {
-//				str[i] = Shuffle();
-//				sum += Character.getNumericValue(str[i].charAt(2));
-//			}
-//		}
+		if(sum < 17) {
+			for (int i = 2; i < cal.length; i++) {
+				str[i] = Shuffle();
+				sum += Character.getNumericValue(str[i].charAt(2));
+			}
+		}
 		System.out.println(sum);
 	}
 	
