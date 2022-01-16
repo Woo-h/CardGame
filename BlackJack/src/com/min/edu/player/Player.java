@@ -2,15 +2,15 @@ package com.min.edu.player;
 
 import com.min.edu.BlackJackImpl;
 
-//"º£ÆÃÀ» ÇÑ ÈÄ" ¸ðµç "ÇÃ·¹ÀÌ¾î"¿Í "µô·¯"´Â µÎ ÀåÀÇ Ä«µå¸¦ ¹Þ½À´Ï´Ù.
+//"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½" ï¿½ï¿½ï¿½ "ï¿½Ã·ï¿½ï¿½Ì¾ï¿½"ï¿½ï¿½ "ï¿½ï¿½ï¿½ï¿½"ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ä«ï¿½å¸¦ ï¿½Þ½ï¿½ï¿½Ï´ï¿½.
 
 /**
- * ÇÃ·¹ÀÌ¾î Å¬·¡½º
+ * ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½
  * 
  * @author rladn
  *
  */
-public class Player extends BlackJackImpl {
+public class Player /* extends BlackJackImpl */ {
 
 	private String[] shuffle = new String[DACK.length];
 
