@@ -48,6 +48,4 @@ public class GameRule {
 			System.out.println("21을 초과하였습니다. 패배");
 		}
 	}
-
-
 }
