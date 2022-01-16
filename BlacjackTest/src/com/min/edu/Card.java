@@ -7,7 +7,7 @@ package com.min.edu;
 public class Card {
 
 	private Suit suit;
-	private Value value;
+	private Value value;	
 	
 	//카드 생성자
 	public Card(Suit suit, Value value) {
